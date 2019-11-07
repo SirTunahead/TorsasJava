@@ -6,15 +6,15 @@
 ### Von mir TorsaJava
 
 
-*Name  = **Torsa**
+* Name  = **Torsa**
 
-*Nachname = **Java** 
+* Nachname = **Java** 
 
-*Alter = *274*
+* Alter = *274*
 
-*Leidenschaften = *Steuererklaerung bearbeiten*
+* Leidenschaften = *Steuererklaerung bearbeiten*
 
-*Xor Leidenschaften = *Keine Steuererklaerung machen*
+* Xor Leidenschaften = *Keine Steuererklaerung machen*
 
 
 >Hallo ich bin der Java Meister
