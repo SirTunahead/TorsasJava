@@ -12,3 +12,5 @@ Einkaufsliste : TorsasJava
 -Bananen
 -Apfel 
 -Kippen und Bier
+- 1 gute Laune
+- 1 Freundin zu besuch
